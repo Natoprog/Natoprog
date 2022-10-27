@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/Natoprog/me/main/banner.jpg)](https://natanluczak.pl)
+[![MasterHead](https://raw.githubusercontent.com/Natoprog/Natoprog/main/banner.jpg)](https://natanluczak.pl)
 <h1 align="center">Hi 👋, I'm Nathan</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Natoprog&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
