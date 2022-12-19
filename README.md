@@ -31,6 +31,6 @@
 
 ![My Skills](https://skillicons.dev/icons?i=figma,ps,xd,github,idea,linux,vite)
 
-<br>
+<h3 align="left">Github stats</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natoprog&show_icons=true&theme=transparent)
