@@ -26,10 +26,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs, html, css, sass, js, ts, graphql, netlify, vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,html,css,sass,js,ts,graphql,netlify,vercel)]
 
 <h3 align="left">Design and Programming Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=figma, ps, xd, gihub, idea, linux, vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,xd,gihub,idea,linux,vite)]
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Natoprog&show_icons=true&locale=en" alt="Natoprog" />
