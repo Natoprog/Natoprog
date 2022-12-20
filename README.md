@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/Natoprog/Natoprog/main/banner.jpg)](https://natanluczak.pl)
 <h1 align="center">Hi 👋, I'm Nathan</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
-<br></br>
+<br>
 
 - 🌱 I’m currently learning **React.js, Next.js**
 
