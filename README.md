@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 <br></br>
-<img align="right" alt="Coding GIF" width="250" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
-
 
 - 🌱 I’m currently learning **React.js, Next.js**
 
