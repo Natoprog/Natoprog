@@ -23,8 +23,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,html,css,sass,js,ts,graphql)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,html,css,sass,js,ts,graphql,electron)
 
 <h3 align="left">Design and Programming Tools:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=figma,ps,xd,github,idea,linux,vite)
+![My Skills](https://skillicons.dev/icons?i=figma,ps,xd,github,idea,linux,vite,vercel,netlify)
