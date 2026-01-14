@@ -3,8 +3,6 @@
 <h3 align="center">A passionate frontend developer from Poland</h3>
 <br>
 
-- 🌱 I’m currently learning **React.js, Next.js**
-
 - 👨‍💻 All of my projects are available at [https://natanluczak.pl](https://natanluczak.pl)
 
 - 📫 How to reach me **natan.lucz@gmail.com**
